@@ -55,7 +55,7 @@ Below is a few screenshots of its usage:
 
 
 ### Centered with flex 80 - row
-![][screenshot1]
+![](./documentation/images/ScreenShot1.png height=500)
 
 ### Example code for the above image
 ![][screenshot2]
@@ -73,8 +73,8 @@ Below is a few screenshots of its usage:
 
 
 
-[screenshot1]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot1.png "80%, row, centered"
-[screenshot2]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot2.png "Flexview with properties"
-[screenshot3]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot3.png "80%, row, left aligned"
-[screenshot4]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot4.png "80%, row, right aligned"
-[screenshot5]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot5.png "Flexview with all properties"
+[screenshot1]: ./documentation/images/ScreenShot1.png "80%, row, centered"
+[screenshot2]: ./documentation/images/ScreenShot2.png "Flexview with properties"
+[screenshot3]: ./documentation/images/ScreenShot3.png "80%, row, left aligned"
+[screenshot4]: ./documentation/images/ScreenShot4.png "80%, row, right aligned"
+[screenshot5]: ./documentation/images/ScreenShot5.png "Flexview with all properties"
