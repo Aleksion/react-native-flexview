@@ -55,20 +55,20 @@ Below is a few screenshots of its usage:
 
 
 ### Centered with flex 80 - row
-![](./documentation/images/ScreenShot1.png =250x)
+![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot1.png =250x)
 
 
 ### Example code for the above image
-![](./documentation/images/ScreenShot2.png | height=500)
+![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot2.png | height=500)
 
 
 ### Left aligned with flex 80
-![](./documentation/images/ScreenShot3.png | height=500)
+![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot3.png | height=500)
 
 
 ### Right aligned with flex 80
-![](./documentation/images/ScreenShot4.png | height=500)
+![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot4.png | height=500)
 
 
 ### Code example with all properties
-![](./documentation/images/ScreenShot5.png | height=500)
+![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot5.png | height=500)
