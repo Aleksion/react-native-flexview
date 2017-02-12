@@ -55,7 +55,6 @@ Below is a few screenshots of its usage:
 
 
 ### Centered with flex 80 - row
-![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot1.png =250x)
 <div align="center">
         <img width="45%" src="./documentation/images/ScreenShot1.png" alt="flex 80, row, center" title="flex 80, row, center"</img>
 </div>
