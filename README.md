@@ -41,9 +41,9 @@ class App extends React.Component {
 The component can be used with the following properties:
 
 ```typescript
-direction: "column" | "row"
+direction: "column" | "row" // Defaults to row
 flex: number //should either be between 0 and 1 or 0 and 100
-align: "left" | "center" | "right"
+align: "left" | "center" | "right" // Defaults to center
 ```
 
 the style attribute is propagated to the wrapping view. 
@@ -54,27 +54,27 @@ If you find something is missing, feel free to contribute.
 Below is a few screenshots of its usage:
 
 
-
+### Centered with flex 80 - row
 ![][screenshot1]
 
-
+### Example code for the above image
 ![][screenshot2]
 
-
+### Left aligned with flex 80
 ![][screenshot3]
 
-
+### Right aligned with flex 80
 ![][screenshot4]
 
-
+### Code example with all properties
 ![][screenshot5]
 
 
 
 
 
-[screenshot1]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot1 "80%, row, centered"
-[screenshot1]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot2 "Flexview with properties"
-[screenshot1]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot3 "80%, row, left aligned"
-[screenshot1]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot4 "80%, row, right aligned"
-[screenshot1]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot5 "Flexview with all properties"
+[screenshot1]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot1.png "80%, row, centered"
+[screenshot2]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot2.png "Flexview with properties"
+[screenshot3]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot3.png "80%, row, left aligned"
+[screenshot4]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot4.png "80%, row, right aligned"
+[screenshot5]: https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot5.png "Flexview with all properties"
