@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es2015",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "./dist",
+        "sourceMap": true,
+        "allowJs": true,
+        "jsx": "react-native",
+        "allowSyntheticDefaultImports": true,
+        "pretty": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "**/*.test.ts",
+        "**/*.spec.ts",
+        "node_modules"
+    ],
+    "compileOnSave": false,
+    "buildOnSave": false
+}

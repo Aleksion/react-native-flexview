@@ -1,0 +1,43 @@
+{
+  "name": "react-native-flexview",
+  "version": "1.0.0",
+  "description": "A flexible view that can be scaled in relation to its parent",
+  "main": "dist/flexview.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "npm run build",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksion/react-native-flexview.git"
+  },
+  "author": "Aleksander Herforth Rendtslev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksion/react-native-flexview/issues"
+  },
+  "homepage": "https://github.com/Aleksion/react-native-flexview#readme",
+  "jest": {
+    "testEnvironment": "node",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js"
+    ],
+    "scriptPreprocessor": "<rootDir>/node_modules/typescript-babel-jest",
+    "testRegex": "./.*\\.(test||spec).(ts|tsx|js)$",
+    "testPathDirs": [
+      "<rootDir>/src"
+    ]
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.41.2"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.9",
+    "@types/react-native": "^0.37.11",
+    "typescript": "next"
+  }
+}
