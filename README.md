@@ -56,19 +56,30 @@ Below is a few screenshots of its usage:
 
 ### Centered with flex 80 - row
 ![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot1.png =250x)
-
+<div align="center">
+        <img width="45%" src="./documentation/images/ScreenShot1.png" alt="flex 80, row, center" title="flex 80, row, center"</img>
+</div>
 
 ### Example code for the above image
-![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot2.png | height=500)
+<div align="center">
+        <img width="45%" src="./documentation/images/ScreenShot2.png" alt="Properties for flex 80" title="Properties for flex 80"</img>
+</div>
 
 
 ### Left aligned with flex 80
-![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot3.png | height=500)
+<div align="center">
+        <img width="45%" src="./documentation/images/ScreenShot3.png" alt="flex 80, row, left" title="flex 80, row, left"</img>
+</div>
 
 
 ### Right aligned with flex 80
-![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot4.png | height=500)
+<div align="center">
+        <img width="45%" src="./documentation/images/ScreenShot4.png" alt="flex 80, row, right" title="flex 80, row, right"</img>
+</div>
 
 
 ### Code example with all properties
-![](https://github.com/Aleksion/react-native-flexview/raw/master/documentation/images/ScreenShot5.png | height=500)
+<div align="center">
+        <img width="45%" src="./documentation/images/ScreenShot5.png" alt="All properties on code" title="All properties on code"</img>
+</div>
+
