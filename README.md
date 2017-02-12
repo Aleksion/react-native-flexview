@@ -55,7 +55,7 @@ Below is a few screenshots of its usage:
 
 
 ### Centered with flex 80 - row
-![](./documentation/images/ScreenShot1.png | height=500)
+![](./documentation/images/ScreenShot1.png =250x)
 
 
 ### Example code for the above image
